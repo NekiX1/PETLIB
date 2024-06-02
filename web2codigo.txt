@@ -1,0 +1,52 @@
+<html>
+<head>
+<h1><P align="center">PETLIB</p></h1>
+<h1><P align="center"><i>"Inspira con tus ideas, cuida con tus elecciones"</i></p>
+<h1><P align="center"><img src="D:\imagenes\logopetlib.jpg"width="200" height="300"></p></h1>
+</head>
+<P align="center"><b>Objetivo:</b></p>
+<P align="center"><i>Proporcionar a la comunidad estudiantil libretas y carpetas únicas, con pastas innovadoras creadas a base de PET</i></P>
+<br>
+<P align="center">CATALOGO DE LIBRETAS</p>
+<table class="default"
+<tr>
+<td><img src="D:\imagenes\ecolip1.jpg"width="150" height="200"></td>
+<td><img src="D:\imagenes\ecolip2.jpg"width="150"height="200"></td>
+<td><img src="D:\imagenes\gato.jpg"width="150" height="200"></td>
+<td><img src="D:\imagenes\hellokitty.jpg"width="150" height="200"></td>
+<td><img src="D:\imagenes\sapo.jpg"width="150" height="200"></td>
+</tr>
+<td>Libreta de tamaño profesional personalizada con foami, Precio:$150</td>
+<td>Libreta de tamaño profesional personalizada con logo empresarial (proporcionar tu logo), Precio:180</td>
+<td>Libreta de tamaño profesional personalizada con un gato, Precio:$200</td>
+<td>Libreta de tamaño profesional personalizada con hello kity: Precio:$250</td>
+<td>Libreta de tamaño profesional con ilustación (contactanos para consultar mas diseños), Precio:$300</td>
+</tr>
+</table>
+<b>Para mas información sobre el proceso de reciclaje de pet, consulta el siguiente enlance:</b>
+<br>
+<a href="https://termoformas.es/proceso-de-reciclaje-del-pet/#:~:text=Primero%20se%20lavan%20y%20separan,utilizarse%20para%20generar%20nuevos%20productos.">
+<img src="D:\imagenes\petreciclado.jpg"width="200" heigth="500">
+Reciclaje de pet
+</a>
+Reciclaje de pet
+</body>
+<P align="center"><b>CONTACTANOS</b></p>
+Dirección fisica:Av colibri Manzana 016,Alfredo del Mazo, 56577 Ixtapaluca, Mex.
+<br>
+Telefono:5574108767
+<br>
+URL:
+<br>
+Nombre de los integrantes:
+<br>
+Melody Jazmin Aviles Huerta NL:4
+<br>
+Javier Eduardo Mejia Lopez NL:21
+<br>
+Katherin Nitzel Morales Gonzalez NL:22
+<br>
+Osvaldo Paez Cruz NL:26
+<br>
+Yuremi Araceli Palacios Hernadez NL:27
+</html>
